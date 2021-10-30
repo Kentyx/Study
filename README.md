@@ -1,2 +1,2 @@
-# study
+# Study
 My first steps
